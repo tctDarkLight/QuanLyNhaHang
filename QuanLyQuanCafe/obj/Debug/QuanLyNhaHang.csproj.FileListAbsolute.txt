@@ -1,0 +1,17 @@
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountInfo.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fFinalBill.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyNhaHang.csproj.CopyComplete

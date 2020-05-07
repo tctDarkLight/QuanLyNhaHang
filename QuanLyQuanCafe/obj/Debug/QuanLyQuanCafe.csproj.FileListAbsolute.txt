@@ -1,0 +1,14 @@
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fFinalBill.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountInfo.resources

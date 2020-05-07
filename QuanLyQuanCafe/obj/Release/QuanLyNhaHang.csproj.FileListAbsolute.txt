@@ -1,0 +1,17 @@
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAccountInfo.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAdmin.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fFinalBill.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fLogin.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTableManager.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyNhaHang.csproj.CopyComplete
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+C:\Users\darkl\Downloads\Compressed\drive-download-20191011T130406Z-001\QuanLyQuanCafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
